@@ -1,0 +1,7 @@
+{
+  "name": "Ga Sekororo Local Stories",
+  "description": "Your premier destination for local news, cultural heritage, entertainment, podcasts, and community media from Ga-Sekororo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
